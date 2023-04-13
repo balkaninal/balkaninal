@@ -1,13 +1,16 @@
 ### <div align="center">I'm Balkan, a full-time full-stack developer working since 2022</div>  
   
 
--  I’m currently working at [The Koc School](https://www.linkedin.com/school/the-koc-school/)  
+-  I’m currently working at [The Koc School](https://www.linkedin.com/school/the-koc-school/)
   
 
 -  I’m currently learning and working on domain-driven design principles for microservices  
   
 
 -  I’m mostly developing projects with .Net Core and Angular by using [Abp Framework](https://github.com/abpframework/abp)
+
+
+-  I am open to work on projects that I can contribute in my off-hours.
   
 
 <br/>  
@@ -71,11 +74,5 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=balkaninal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
